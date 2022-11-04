@@ -121,8 +121,7 @@
           <div class="row align-items-center justify-content-xl-between">
             <div class="col-xl-6">
               <div class="copyright text-center text-xl-left text-muted">
-                © 2022 <a href="http://syahrulawaludin.github.io" class="font-weight-bold ml-1" target="_blank">Syahrul
-                  Awaludin - MRc Tim</a>
+                © 2022 <a href="" class="font-weight-bold ml-1" target="_blank">PKL - MRc Tim</a>
               </div>
             </div>
 
